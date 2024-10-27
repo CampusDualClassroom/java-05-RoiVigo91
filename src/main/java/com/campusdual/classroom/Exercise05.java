@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exercise05 {
     public static void main(String[] args) {
-        checkLessOrGreaterEqual(2,5);
+        checkLessOrGreaterEqual(2,8);
         checkLessOrGreaterEqual(2,2);
         checkMultiply(240,2);
         checkMultiply(25,2);
