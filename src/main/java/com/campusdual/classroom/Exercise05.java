@@ -3,7 +3,7 @@ package com.campusdual.classroom;
 public class Exercise05 {
     public static void main(String[] args) {
         checkLessOrGreaterEqual(3,5);
-        checkMultiply(5,3);
+        checkMultiply(240,2);
         checkPositiveNegative(6);
 
     }
