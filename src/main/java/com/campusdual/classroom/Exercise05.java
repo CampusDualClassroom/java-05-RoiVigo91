@@ -1,10 +1,15 @@
 package com.campusdual.classroom;
 
+import java.util.Scanner;
+
 public class Exercise05 {
     public static void main(String[] args) {
-        checkLessOrGreaterEqual(3,5);
+        checkLessOrGreaterEqual(2,5);
+        checkLessOrGreaterEqual(2,2);
         checkMultiply(240,2);
+        checkMultiply(25,2);
         checkPositiveNegative(6);
+        checkPositiveNegative(-5);
 
     }
 
